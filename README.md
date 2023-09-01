@@ -14,5 +14,5 @@
 ### Activities
 
 1. Open and review the HTML file in this repo. You can open it in the browser to see how it is structured.
-2. Draw the Document Object Model for the HTML file. You can do this in Google slides or in another design tool of your choice. Take a screenshot and add the file to this repo.
+2. Draw the Document Object Model for the HTML file. You can do this with pencil and paper. Take a photo and add the file to this repo.
 3. Answer the questions in the scripts file.
